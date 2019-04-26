@@ -1,2 +1,2 @@
 # frog
-frog can log for your in the android world!
+frog can log for you in the android world!
